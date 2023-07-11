@@ -1,0 +1,12 @@
+.App {
+  padding: 40px;
+}
+
+.heading {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.task-item {
+  background-color: #f4f4f4;
+}
